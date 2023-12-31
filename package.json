@@ -4,7 +4,7 @@
   "description": "Caching adapter for axios",
   "homepage": "https://github.com/200sOnly/suitcase/tree/main",
   "author": {
-    "name": "Abhishek Mishra",
+    "name": "Abhishek Mishra"
   },
   "files": [
     "/dist",
